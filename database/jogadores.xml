@@ -1,0 +1,16 @@
+<Jogadores>
+  <Jogador>
+    <login>teste</login>
+    <senha>123456</senha>
+    <dataCadastro>23/11/2019 15:36</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>jonatas</login>
+    <senha>12345678</senha>
+    <dataCadastro>13/11/2019 15:50</dataCadastro>
+    <vitorias>12</vitorias>
+    <pontos>14.0</pontos>
+  </Jogador>
+</Jogadores>
