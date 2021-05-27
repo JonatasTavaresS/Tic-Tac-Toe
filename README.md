@@ -1,6 +1,8 @@
 # ❌Tic Tac Toe ⭕
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" title="Java" alt="Java Badge" />
+  <a href="https://www.oracle.com/java">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" title="Java" alt="Java Badge" />
+  </a>
 </p>
 
 <p align="justify">
@@ -11,9 +13,9 @@
 </p>
 
 ## 🚀 Iniciando
-1. É necessário ter uma versão de [Java Development Kit (JDK)](https://www.oracle.com/br/java/ "Página inicial de Java") instalada em sua máquina
+1. É necessário ter uma versão de [Java Development Kit (JDK)](https://www.oracle.com/java "Página inicial de Java") instalada em sua máquina
 
-2. É necessário ter uma versão do [Apache Netbeans](https://netbeans.apache.org/ "Página inicial do Apache Netbeans") instalada em sua máquina
+2. É necessário ter uma versão do [Apache Netbeans](https://netbeans.apache.org "Página inicial do Apache Netbeans") instalada em sua máquina
 
 3. Baixe o repositório
  - Usando Git
