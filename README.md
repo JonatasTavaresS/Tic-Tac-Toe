@@ -14,7 +14,8 @@
 1. É necessário ter uma versão de [Java Development Kit (JDK)](https://www.oracle.com/br/java/ "Página inicial de Java") instalada em sua máquina
 
 2. É necessário ter uma versão do [Apache Netbeans](https://netbeans.apache.org/ "Página inicial do Apache Netbeans") instalada em sua máquina
-2. Baixe o repositório
+
+3. Baixe o repositório
  - Usando Git
   ```
   https://github.com/TavaresJonatas/Tic-Tac-Toe.git
@@ -25,9 +26,9 @@
   ```
   > 💡 ou da maneira que você preferir
 
-3. Importe a biblioteca [lib/xstream-1.4.11.1.jar](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/lib/xstream-1.4.11.1.jar "Arquivo da biblioteca XStream") para o ambiente de programação
+4. Importe a biblioteca [lib/xstream-1.4.11.1.jar](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/lib/xstream-1.4.11.1.jar "Arquivo da biblioteca XStream") para o ambiente de programação
 
-4. Execute o arquivo [src/main/Main.java](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/src/main/Main.java "Arquivo main/jogo.py")
+5. Execute o arquivo [src/main/Main.java](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/src/main/Main.java "Arquivo main/jogo.py")
 
 ## ⚡ Como Jogar
 As explicações e instruções para o jogo podem encontradas no [slide de apresentação do projeto](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/presentation/Slide%20de%20Apresenta%C3%A7%C3%A3o.pdf "Slide de apresentação do projeto") e, também, no vídeo demonstrativo abaixo.
