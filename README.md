@@ -28,14 +28,20 @@
   ```
   > 💡 ou da maneira que você preferir
 
-4. Importe a biblioteca [lib/xstream-1.4.11.1.jar](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/lib/xstream-1.4.11.1.jar "Arquivo da biblioteca XStream") para o ambiente de programação
+4. Importe a biblioteca [lib/xstream-1.4.11.1.jar](lib/xstream-1.4.11.1.jar "Arquivo da biblioteca XStream") para o ambiente de programação
 
-5. Execute o arquivo [src/main/Main.java](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/src/main/Main.java "Arquivo main/jogo.py")
+5. Execute o arquivo [src/main/Main.java](src/main/Main.java "Arquivo src/main/jogo.py")
 
 ## ⚡ Como Jogar
-As explicações e instruções para o jogo podem encontradas no [slide de apresentação do projeto](https://github.com/TavaresJonatas/Tic-Tac-Toe/blob/main/presentation/Slide%20de%20Apresenta%C3%A7%C3%A3o.pdf "Slide de apresentação do projeto") e, também, no vídeo demonstrativo abaixo.
+As explicações e instruções para o jogo podem encontradas no [slide de apresentação do projeto](presentation/Slide%20de%20Apresentação.pdf "Slide de apresentação do projeto") e, também, no vídeo demonstrativo abaixo.
 [<p align="center"><img src="presentation/Vídeo Demonstrativo (Capa).png" width="60%" length="60%" title="Vídeo Demonstrativo" alt="Vídeo Demonstrativo" /></p>](https://drive.google.com/file/d/1asTCTILLFpJdvc4oZSgToEYBdrgFnvQf/view "Vídeo Demonstrativo")
 
 ## 💻 Equipe
-| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>Jônatas Tavares</sub>](https://github.com/TavaresJonatas "Jônatas Tavares (@TavaresJonatas)") | [<img alt="llucas17" src="https://github.com/llucas17.png?size=115" width="115"><br><sub>Lucas Silva</sub>](https://github.com/llucas17 "Lucas Silva (@llucas17)") | [<img alt="gabmls" src="https://github.com/gabmls.png?size=115" width="115"><br><sub>Maria Gabriela</sub>](https://github.com/gabmls "Maria Gabriela (@gabmls)") | [<img alt="mleticia4" src="https://github.com/mleticia4.png?size=115" width="115" /><br /><sub>Maria Letícia</sub>](https://github.com/mleticia4 "Maria Letícia (@mleticia4)") |
-| :---: | :---: | :---: | :---: |
+<table>
+  <tr align="center">
+    <td><a href="https://github.com/TavaresJonatas" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
+    <td><a href="https://github.com/FtnLucas" title="Lucas Silva"><img src="https://avatars.githubusercontent.com/u/49314445" width="115px" alt="Foto de perfil de Lucas Silva" /><br /><sub>Lucas Silva</sub></a></td>
+    <td><a href="https://github.com/gabmls" title="Maria Gabriela"><img src="https://avatars.githubusercontent.com/u/50882435" width="115px" alt="Foto de perfil de Maria Gabriela" /><br /><sub>Maria Gabriela</sub></a></td>
+    <td><a href="https://github.com/mleticia4" title="Maria Letícia"><img src="https://avatars.githubusercontent.com/u/50882526" width="115px" alt="Foto de perfil de Maria Letícia" /><br /><sub>Maria Letícia</sub></a></td>
+  </tr>
+</table>
