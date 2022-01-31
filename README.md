@@ -39,7 +39,7 @@ As explicações e instruções para o jogo podem encontradas no [slide de apres
 ## 💻 Equipe
 <table>
   <tr align="center">
-    <td><a href="https://github.com/TavaresJonatas" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
+    <td><a href="https://github.com/JonatasTavaresS" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
     <td><a href="https://github.com/FtnLucas" title="Lucas Silva"><img src="https://avatars.githubusercontent.com/u/49314445" width="115px" alt="Foto de perfil de Lucas Silva" /><br /><sub>Lucas Silva</sub></a></td>
     <td><a href="https://github.com/gabmls" title="Maria Gabriela"><img src="https://avatars.githubusercontent.com/u/50882435" width="115px" alt="Foto de perfil de Maria Gabriela" /><br /><sub>Maria Gabriela</sub></a></td>
     <td><a href="https://github.com/mleticia4" title="Maria Letícia"><img src="https://avatars.githubusercontent.com/u/50882526" width="115px" alt="Foto de perfil de Maria Letícia" /><br /><sub>Maria Letícia</sub></a></td>
